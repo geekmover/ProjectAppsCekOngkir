@@ -489,7 +489,7 @@ public class MainActivity extends AppCompatActivity {
 
         ApiService service = retrofit.create(ApiService.class);
         Call<ItemCost> call = service.getCost(
-                "request-api-from-rajaongkir",
+                "2c1cf2e4614041e9e929dbee9b2ccfd1",
                 origin,
                 destination,
                 weight,

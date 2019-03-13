@@ -20,12 +20,12 @@ public interface ApiService {
 
     // Province
     @GET("province")
-    @Headers("key:request-api-from-rajaongkir")
+    @Headers("key:2c1cf2e4614041e9e929dbee9b2ccfd1")
     Call<ItemProvince> getProvince ();
 
     // City
     @GET("city")
-    @Headers("key:request-api-from-rajaongkir")
+    @Headers("key:2c1cf2e4614041e9e929dbee9b2ccfd1")
     Call<ItemCity> getCity (@Query("province") String province);
 
     // Cost
