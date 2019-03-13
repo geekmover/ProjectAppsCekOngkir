@@ -14,3 +14,6 @@ Beberapa Screenshot Aplikasi.
 
 > Create by bagicode, <br>
 visit my web bagicode.com and my channel youtube.com/robbydianputra
+
+
+Notes: Project ini di buat ulang dari hasil mengikuti project dari mas Robby Dian Putra. 
