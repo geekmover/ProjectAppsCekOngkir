@@ -16,4 +16,4 @@ Beberapa Screenshot Aplikasi.
 visit my web bagicode.com and my channel youtube.com/robbydianputra
 
 
-Notes: Project ini di buat ulang dari hasil mengikuti project dari mas Robby Dian Putra. 
+Notes: Project ini di buat ulang dari hasil mengikuti project dari mas Robby Dian Putra. dan Key pakai punya saja sendiri, dari akun Free saya di rajaongkir.com
